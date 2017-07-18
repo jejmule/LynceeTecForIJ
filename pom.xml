@@ -13,12 +13,11 @@
 	</parent>
 
 	<groupId>com.lynceetec</groupId>
-	<artifactId>IJ_Koala-Bin</artifactId>
-	<version>0.1.0-SNAPSHOT</version>
+	<artifactId>LynceeTecForIJ</artifactId>
+	<version>0.1.0</version>
 
-	<name>IJ-Koala-Bin</name>
-	<description>Function to read and write Koala binary file</description>
-	<url>http://mycompany.com/imagej/process-pixels/</url>
+	<name>LynceeTecForIJ</name>
+	<url>https://github.com/jejmule/LynceeTecForIJ</url>
 	<inceptionYear>2012</inceptionYear>
 	<organization>
 		<name>LyncéeTec</name>
@@ -85,15 +84,9 @@
 		</mailingList>
 	</mailingLists>
 
-	<scm>
-		<connection>scm:git:git://github.com/imagej/example-legacy-plugin</connection>
-		<developerConnection>scm:git:git@github.com:imagej/example-legacy-plugin</developerConnection>
-		<tag>HEAD</tag>
-		<url>https://github.com/imagej/example-legacy-plugin</url>
-	</scm>
 	<issueManagement>
 		<system>GitHub Issues</system>
-		<url>https://github.com/imagej/example-legacy-plugin/issues</url>
+		<url>https://github.com/jejmule/LynceeTecForIJ/issues</url>
 	</issueManagement>
 	<ciManagement>
 		<system>None</system>
@@ -112,4 +105,8 @@
 			<artifactId>ij</artifactId>
 		</dependency>
 	</dependencies>
+	<description>A collection of plugins to manage LynceeTec data in ImageJ</description>
+	<scm>
+		<url>https://github.com/jejmule/LynceeTecForIJ</url>
+	</scm>
 </project>
