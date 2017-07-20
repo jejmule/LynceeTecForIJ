@@ -1,4 +1,4 @@
-
+//Read Koala Bin Header information stored in FileInfo > debugInfo String
 import ij.*;
 import ij.io.*;
 import ij.plugin.*;
