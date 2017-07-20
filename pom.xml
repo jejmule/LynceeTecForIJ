@@ -13,7 +13,7 @@
 	</parent>
 
 	<groupId>com.lynceetec</groupId>
-	<artifactId>LynceeTecForIJ</artifactId>
+	<artifactId>LynceeTec_ForIJ</artifactId>
 	<version>0.1.0</version>
 
 	<name>LynceeTecForIJ</name>
