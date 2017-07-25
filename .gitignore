@@ -5,3 +5,4 @@ target/classes
 target/generated-source
 target/maven-archiver
 target/test-classes
+target/*sources.jar
